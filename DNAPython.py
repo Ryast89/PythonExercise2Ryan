@@ -1,6 +1,4 @@
-
-
-number = input()          # Reading input from STDIN
+number = input()
 
 for x in range(int(number)):
     input()
